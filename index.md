@@ -1,6 +1,6 @@
 ## About
 
-I am a C/C++ developer that works on embedded systems for my day job. My [github](https://github.com/joshbosley) is peppered with small side projects from the last few years, but ultimately they are just toys. My current work place doesn't allow me to post any of my work in a public fashion so unfortunately I can not show any of what I actually do :cry:. 
+I am a C/C++ developer that works on embedded systems for my day job. My [github](https://github.com/joshbosley) is peppered with small side projects from the last few years, but ultimately they are just toys. My current work place doesn't allow me to post any of my work in a public fashion so unfortunately I can't show any of what I actually do. 
 
 ## Work History 
 
