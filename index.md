@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/joshbosley/joshbosley.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a C/C++ developer that works on embedded systems for my day job. My [github](https://github.com/joshbosley) is peppered with small side projects from the last few years, but ultimately they are just toys. My current work place doesn't allow me to post any of my work in a public fashion so unfortunately I can not show any of what I actually do :cry:. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Work History 
 
-### Markdown
+***DCS Corporation*** - Computer Engineer                        > Dec 2018 - Present
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Contracted to the U.S Army Combat Capabilities Development Command (CCDC) Vehicle Electronics and Architecture (VEA) team to aide in the development of ground vehicle systems.
 
-```markdown
-Syntax highlighted code block
+- Embedded systems development using C/C++
+- Implementation of hardware control systems from design specifications
+- Use of CAN / I2C / SPI to communicate with vehicle hardware (sensors, ecu, etc)
+- Implementation of device protocols for Wireshark analyzing in Lua
+- Use of Atlassian suite for project tracking / code reviews (BitBucket, Jira, Fisheye+Crucible, Confluence)
 
-# Header 1
-## Header 2
-### Header 3
+***Aerotek***  - Software Engineer                               > June 2018 - Dec 2018
 
-- Bulleted
-- List
+Contracted to DCS Corporation for placement in the U.S Army CCDC VEA team to aide in the development of ground vehicle systems. This role lead to permanent placement within DCS Corporation as a Computer Engineer where I continued my duties under that title.  
 
-1. Numbered
-2. List
+***Lake Superior State University*** - I.T Administrator         > July 2015 - June 2018
 
-**Bold** and _Italic_ and `Code` text
+- Hiring / Training / Supervising Help Desk student employees
+- Linux / Windows server support for mission-critical applications
+- Back-end web development support for LSSU’s Webmaster 
 
-[Link](url) and ![Image](src)
-```
+## Education
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+***Lake Superior State University*** - B.S Computer Science
 
-### Jekyll Themes
+### Associations :  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joshbosley/joshbosley.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+***Association for Computing Machinery (ACM)***     Vice President, LSSU Chapter 2017
 
-### Support or Contact
+- Coordinated competition practice for ACM members
+- Assisted professors in ACM setup when LSSU hosted competitions
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Research/ Project Experience :
+
+***Autonomous Drone Control System*** (C++, OpenCV)
+
+- Created novel tracking / following system using analysis of an active deformable model
+- Implemented PID control law, Kalman filter, and flight-safety protocols
+- Performed image filtering and analysis for target acquisition
+
+***Active Deformable Model*** (C++, OpenCV, QT)
+
+- Implemented an Active Deformable Model based on original research paper
+- Wrote custom QT widgets working with OpenCV to create a demonstration GUI to interact with the underlying algorithms via image file, video file, or webcam
+
+***BASIC Assembler*** (C++, Flex, Bison)
+
+- Designed formal grammar for BASIC programming language
+- Shunting-Yard algorithm for infix to post-fix arithmetic conversion
+- Designed an algorithm for efficient use of CPU registers in arithmetic execution using a stack-based LRU implementation
+
+***Dynamic Network Overlay System*** (Python3)
+
+- Network address translation bypassing scheme
+- QT-inspired network signal / slot system enabling complex network If-this-then-that functionality
+- Multi thread function encapsulation to handle trust-less code execution
+- Cryptographic key usage for node registration and verification
